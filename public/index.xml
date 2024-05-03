@@ -1,11 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>20MIC0048 HUGO SITE</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <description>Recent content on 20MIC0048 HUGO SITE</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 May 2024 20:14:28 +0530</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Second Blog</title>
+      <link>http://localhost:1313/second-blog/</link>
+      <pubDate>Fri, 03 May 2024 20:14:28 +0530</pubDate>
+      
+      <guid>http://localhost:1313/second-blog/</guid>
+      <description>Step into the embrace of nature and let its poetry wash over you. From the gentle sway of tree branches to the soft caress of a babbling brook, immerse yourself in the symphony of the natural world. Incorporate organic elements into your surroundings – a vase of freshly picked wildflowers, a driftwood sculpture, or a sunlit corner adorned with lush greenery. Let nature infuse your space with its timeless beauty and rejuvenating energy.</description>
+    </item><item>
+      <title>First Blog</title>
+      <link>http://localhost:1313/first-blog/</link>
+      <pubDate>Fri, 03 May 2024 20:03:23 +0530</pubDate>
+      
+      <guid>http://localhost:1313/first-blog/</guid>
+      <description>In a cluttered world, minimalism emerges as a beacon of simplicity and elegance. Strip away the excess, and what remains is a harmonious blend of functionality and grace. Embrace clean lines, neutral palettes, and purposeful design to create spaces that breathe and inspire. Let each object tell a story, each corner whispering tales of quiet sophistication.</description>
+    </item>
   </channel>
 </rss>
